@@ -2,7 +2,7 @@
 
 An interactive landing page for a fictional forest retreat on the shore of Lago di Braies, in the Dolomites. It was built as a UI/UX prototype to explore how a hero section can feel *alive* through micro-interactions.
 
-**Live site:** _see the repository's GitHub Pages link_
+**Live site:** https://ahmadshoaibrajpoot.github.io/verdance-site/
 
 ![Verdance preview](assets/img/og-image.jpg)
 
